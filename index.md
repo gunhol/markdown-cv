@@ -1,91 +1,94 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Gunnar Hollander - curriculum vitae
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Gunnar Hollander
+Lead Software Engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:contact@hollander.one">contact@hollander.one</a>
 </div>
 
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Languages
+German (native), Dutch (native), English (fluent)
 
 
-### Research interests
+## Technologies
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### Programming Languages
+Java, SQL, HTML5, CSS, XML, JSON, JavaScript, PHP
 
+### Frameworks and architectures
+Spring (Boot), Hibernate, OpenSAML, Bootstrap, Swagger, SOAP, jQuery, JUnit
 
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+### Development tools
+IntelliJ, Eclipse, JIRA, GIT, Google Cloud, Docker, Apache Tomcat, Apache2, Ubuntu Server, MariaDB, MySQL, Oracle WebLogic, IBM WebSphere, SVN, SoapUI
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`Jan 2024 - now`
+__Lead Software Engineer, Sanitas Krankenversicherung__, Zürich
 
-- Warden
-- Minted coins
+`Oct 2022 - Dec 2023`
+__Lead / Senior Software Engineer, CLEO AG / nu.education__, Zürich
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Modelling of data structure and business processes
+- Feature planning in cooperation with product owners
+- Product responsibility
+- Design, implementation and architecture of microservices with Spring Boot, Go and GraphQL
+- Refactoring and performance optimization of existing microservices
+- Contact person for backend-topics
+- Reworking of authentication and authorization with Keycloak via Spring Security
+- Onboarding and coaching of new developers
+- Ensuring clean code principles
+- Incident management
+- Setting up and configuring Kubernetes clusters in Jelastic
+
+`Apr 2021 - Sep 2022`
+__Senior Software Engineer, Health Info Net (HIN) AG / AD Swiss Net AG__, Wallisellen
+
+- Developing COVID vaccination reporting and COVID certificate service "AD Swiss Covid Impfen"
+- Technical contact person for 3rd party systems
+- Product and server-responsibility
+- Supporting requirements engineer and project lead with application planning and risk assessments
+- Integration of SAML and OAuth authentication
+- Supporting and onboarding external developers
+- 3rd level support
+
+`Sep 2019 - Mar 2021`
+__Software Engineer, Health Info Net (HIN) AG / AD Swiss Net AG__, Wallisellen
+
+`Apr 2017 - Aug 2019`
+__Software Engineer, ETH Zürich__, Zürich
+
+`Apr 2015 - Mar 2017`
+__Quality Assurance Associate, SapientNitro__, Zürich
+
+`Oct 2013 - Mar 2015`
+__Junior Software Engineer, UBS AG__, Zürich
+
+`Aug 2012 - Sep 2013`
+__Internship Software Engineer, UBS AG__, Zürich
+
+
+## Education
+
+`2012 - 2013`
+__Kantonsschule Enge, Zürich__
+
+- Fähigkeitszeugnis (Federal VET Diploma), Informatiker EFZ
+
+`2009 - 2012`
+__Kantonsschule Enge, Zürich__
+
+- Berufsmatura (Federal Vocational Baccalaureate), Kaufmännisch
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: June 2024 -->
 
 
